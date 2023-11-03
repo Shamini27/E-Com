@@ -1,0 +1,181 @@
+[
+    {
+      "id": 1,
+      "name": "Necklace",
+      "category":"Women's Jewelry",
+      "Price":"Rs. 1,500.00",
+      "stock": "Available - 15 items",
+      "image":  [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+        "id": 2,
+      "name": "Smart Dishwasher",
+      "category":"Kitchenware",
+      "Price":"Rs. 57,500.00",
+      "stock": "Available - 24 items",
+      "image":  [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+        "id": 3,
+      "name": "Bluetooth Speaker",
+      "category":"Home Entertainment",
+      "Price":"Rs. 4,800.00",
+      "stock": "Available - 9 items",
+      "image":  [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+        "id": 4,
+      "name": "Hair Gel",
+      "category":"Hair Care",
+      "Price":"Rs. 690.00",
+      "stock": "Available - 22 items",
+      "image":   [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {"id": 5,
+    "name": "Foldable Desk",
+    "category":"Home Office",
+    "Price":"Rs. 3,150.00",
+    "stock": "Available - 14 items",
+    "image":   [
+      "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+      "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+      "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+    ]
+    },
+    {
+        "id": 6,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":   [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":   [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":   [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":   [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":  [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":   [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":  [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":   [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":  [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Jumbo Bottle Set",
+      "category":"Water Bottle",
+      "Price":"Rs. 3,250.00",
+      "stock": "Available - 40 items",
+      "image":  [
+        "https://i.ibb.co/zZnj5bN/watch-04.jpg",
+        "https://i.ibb.co/MBr40TJ/3888756-11873.jpg",
+        "https://i.ibb.co/d7FXs6b/28991033-m502t0010-06jun22-smart-watch-02-removebg-preview.png"
+      ]
+    }
+]

@@ -1,0 +1,44 @@
+/* Navbar styles */
+.navbar {
+    background-color: #000; /* Background color for the navbar */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  /* Logo styles */
+.logo{
+    color: #fff;
+    height: 100px;
+}
+
+  .logo img {
+   /* Adjust the logo height as needed */
+    height: 100px;
+  }
+  
+  /* Navigation list styles */
+  .nav-list {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    column-gap: 2.7rem;
+  }
+  
+  .nav-list li {
+    margin-right: 20px;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: #fff; /* Link color */
+    font-weight: bold;
+  }
+  
+  /* Profile icon styles */
+  .profile-icon img {
+    height: 30px; /* Adjust the profile icon height as needed */
+  }
+  
